@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "547c529db0677722131b5933839a81468a909f7aba073186cf9d5d3a74a7508e"
+build_start_time: [1673464762, 328846931]
+build_end_time: [1673464762, 450418949]
+inputs:
+  "/Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/ios/Runner/AppDelegate.swift": !private [1599396358, 0]

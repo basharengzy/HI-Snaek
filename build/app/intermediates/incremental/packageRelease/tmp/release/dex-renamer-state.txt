@@ -1,0 +1,4 @@
+#Mon Feb 20 15:21:00 EET 2023
+base.0=/Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

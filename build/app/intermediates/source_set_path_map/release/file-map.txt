@@ -1,0 +1,12 @@
+com.hisneake.hisneakgame.app-jetified-window-java-1.0.0-beta04-0 /Users/basharzy/.gradle/caches/transforms-3/9ad42915e1c709ad1b2136156a0964c6/transformed/jetified-window-java-1.0.0-beta04/res
+com.hisneake.hisneakgame.app-jetified-window-1.0.0-beta04-1 /Users/basharzy/.gradle/caches/transforms-3/9cdde96e85f566ba8154d56fa5f2fbc1/transformed/jetified-window-1.0.0-beta04/res
+com.hisneake.hisneakgame.app-jetified-annotation-experimental-1.1.0-2 /Users/basharzy/.gradle/caches/transforms-3/bb2247605b9b63558bd4596beaf9f22f/transformed/jetified-annotation-experimental-1.1.0/res
+com.hisneake.hisneakgame.app-core-1.6.0-3 /Users/basharzy/.gradle/caches/transforms-3/d198cab27e036b92dbbec7873ccf3014/transformed/core-1.6.0/res
+com.hisneake.hisneakgame.app-main-4 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/android/app/src/main/res
+com.hisneake.hisneakgame.app-release-5 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/android/app/src/release/res
+com.hisneake.hisneakgame.app-pngs-6 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/generated/res/pngs/release
+com.hisneake.hisneakgame.app-resValues-7 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/generated/res/resValues/release
+com.hisneake.hisneakgame.app-rs-8 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/generated/res/rs/release
+com.hisneake.hisneakgame.app-mergeReleaseResources-9 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.hisneake.hisneakgame.app-mergeReleaseResources-10 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.hisneake.hisneakgame.app-merged_res-11 /Users/basharzy/Desktop/Bashar File/Bashar App/SnakeGameFlutter-master 2/build/app/intermediates/merged_res/release
